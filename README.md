@@ -14,3 +14,7 @@ Geliştirenler
 =============
 * Güven Atbakan - Matematik ve Bilgisayar Bilimleri Bölümü, Eskişehir Osmangazi Üniversitesi
 * Serhat Yavuz - Matematik ve Bilgisayar Bilimleri Bölümü, Eskişehir Osmangazi Üniversitesi
+
+Destekleyenler
+=============
+* Grisayfalar.com - https://www.grisayfalar.com/
